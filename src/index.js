@@ -17,5 +17,3 @@ function readCSV (filePath) {
       });
   });
 }
-
-module.exports = readCSV;
